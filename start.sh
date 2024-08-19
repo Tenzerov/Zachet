@@ -2,8 +2,8 @@
 
 # Переменные
 NETWORK_NAME="zachet-network"
-DB_CONTAINER_NAME="myapp-db"
-WEB_CONTAINER_NAME="myapp-web"
+DB_CONTAINER_NAME="zachet-db"
+WEB_CONTAINER_NAME="zachet-web"
 DB_IMAGE="postgres:16.4"
 WEB_IMAGE="nginx:1.26"
 DB_PASSWORD="123"
