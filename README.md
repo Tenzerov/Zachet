@@ -6,7 +6,7 @@
 
     ```bash
     git clone https://github.com/Tenzerov/Zachet
-    cd my-webapp
+    cd Zachet
     ```
 
 2. Запустите приложение используя терминал:
