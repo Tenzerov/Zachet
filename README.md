@@ -5,7 +5,7 @@
 1. Клонируйте репозиторий используя терминал:
 
     ```bash
-    git clone https://github.com/Tenzerov/Zachet/tree/Tenzerov-patch-1
+    git clone https://github.com/Tenzerov/Zachet
     cd my-webapp
     ```
 
